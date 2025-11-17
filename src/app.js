@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 
 // simple homepage route
 app.get('/', (req, res) => {
-  res.send('<h1>Welcome to web-app-jira-demo</h1>');
+  res.send("Welcome to web-app-jira-demo");
 });
 
 // create placeholder for auth route (future)
