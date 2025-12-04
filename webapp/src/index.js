@@ -1,3 +1,3 @@
 // Updated homepage styling
-console.log("Homepage updated");
+console.log("Homepage updated successfully");
 
