@@ -1,1 +1,3 @@
-console.log("Hello, Terraform-created WebApp!");
+// Updated homepage styling
+console.log("Homepage updated");
+
